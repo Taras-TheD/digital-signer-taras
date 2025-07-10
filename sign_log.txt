@@ -1,0 +1,8 @@
+# 🔐 Trust Signature Log — TarasCV Node
+
+Document: CV_Taras Karasiichuk.pdf  
+Signed: Kyiv, July 2025  
+SHA-256 Hash: f5903598cf78d76a5b155efd7daefc1d8e38326262610c6f7ee92b7482c9e5d0  
+Signer: Taras Karasiichuk  
+Verification Method: certutil -hashfile (manual integrity check)  
+Status: ✅ Signature verified locally  
